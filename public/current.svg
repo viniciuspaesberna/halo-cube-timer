@@ -1,0 +1,19 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none">
+  <g clip-path="url(#face)">
+    <rect width="300" height="300" fill="transparent" />
+    <rect x="0" y="0" width="100" height="100" fill="#0046ad" stroke="black" stroke-width="5" false />
+    <rect x="100" y="0" width="100" height="100" fill="#0046ad" stroke="black" stroke-width="5" false />
+    <rect x="200" y="0" width="100" height="100" fill="#0046ad" stroke="black" stroke-width="5" false />
+    <rect x="0" y="100" width="100" height="100" fill="#0046ad" stroke="black" stroke-width="5" false />
+    <rect x="100" y="100" width="100" height="100" fill="#0046ad" stroke="black" stroke-width="5" id="center" />
+    <rect x="200" y="100" width="100" height="100" fill="#0046ad" stroke="black" stroke-width="5" false />
+    <rect x="0" y="200" width="100" height="100" fill="#0046ad" stroke="black" stroke-width="5" false />
+    <rect x="100" y="200" width="100" height="100" fill="#0046ad" stroke="black" stroke-width="5" false />
+    <rect x="200" y="200" width="100" height="100" fill="#0046ad" stroke="black" stroke-width="5" false />
+  </g>
+  <defs>
+    <clipPath id="face">
+      <rect width="300" height="300" fill="transparent" />
+    </clipPath>
+  </defs>
+</svg>

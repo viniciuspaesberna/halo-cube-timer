@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button {
+  @apply ring-1 ring-zinc-600 p-2 rounded-md
+}
